@@ -1,4 +1,4 @@
-# Decaf-Compiler
+# DECAF Compiler
 
 Converts DECAF code to GNU Assembly
 
